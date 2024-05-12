@@ -1,6 +1,6 @@
 <h1>SonTgA</h1>
-<hr>
-<ul>Please note that below is the official list of information about SonTgA:</ul>
+
+<h2>Please note that below is the official list of information about SonTgA:</h2>
 
 <li>Website: [http://validatorvn.com](https://sites.google.com/view/sontga/home)</li>
 <li>Telegram: http://t.me/dinhson2000)</li>
