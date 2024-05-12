@@ -1,8 +1,8 @@
 <h1>SonTgA<h1> </h1>br>
 <hr>
-<li>Please note that below is the official list of information about SonTgA:</li>li
+<ul>Please note that below is the official list of information about SonTgA:</ul>
 
-<ul>Website: [http://validatorvn.com](https://sites.google.com/view/sontga/home)</ul>
-<ul>Telegram: http://t.me/dinhson2000)</ul>
-<ul>Github: http://github.com/nguyendinhsontga)</ul>
-<ul>X: http://x.com/jujimal)</ul>
+<li>Website: [http://validatorvn.com](https://sites.google.com/view/sontga/home)</li>
+<li>Telegram: http://t.me/dinhson2000)</li>
+<li>Github: http://github.com/nguyendinhsontga)</li>
+<li>X: http://x.com/jujimal)</li>
