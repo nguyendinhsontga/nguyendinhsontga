@@ -1,4 +1,4 @@
-**SonTgA**
+<h1>**SonTgA**<h1>
 <space><space>
 Please note that below is the official list of information about SonTgA:\\
 <space><space>
