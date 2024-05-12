@@ -1,4 +1,4 @@
-<h1>SonTgA<h1> </h1>br>
+<h1>SonTgA</h1>
 <hr>
 <ul>Please note that below is the official list of information about SonTgA:</ul>
 
